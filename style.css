@@ -31,6 +31,13 @@
     font-weight: bold;
 }
 
+.time-and-servings {
+    display: inline;
+    margin-right: 30px;
+    border: 1px #eba535 dotted;
+    padding: 5px;
+} 
+
 .recipe-card h2{
     color: #eba535;
 }
