@@ -27,6 +27,10 @@
     border-radius: 20px;
 }
 
+.description span{
+    font-weight: bold;
+}
+
 .recipe-card h2{
     color: #eba535;
 }
