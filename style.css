@@ -24,7 +24,14 @@
     margin: 50px auto;
     background-color: #f6ddb6;
     border: 5px #eba535 solid;
-    border-radius: 10px;
+    border-radius: 20px;
+}
+
+.recipe-card img {
+    border: 5px #eba535 solid;
+    border-radius: 20px;
+    margin: 10px auto;
+    display: block;
 }
 
 h1 {
@@ -35,6 +42,13 @@ h1 {
     padding: 30px;
     text-align: center;
     margin: 50px auto;
+}
+
+div.Description,
+div.Ingredients-and-steps {
+    border: 2px #eba535 dotted;
+    padding: 20px;
+    margin:15px;
 }
 
 h1.homepage {
