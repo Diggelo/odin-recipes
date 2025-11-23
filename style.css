@@ -27,11 +27,27 @@
     border-radius: 20px;
 }
 
+.recipe-card h2{
+    color: #eba535;
+}
+
 .recipe-card img {
-    border: 5px #eba535 solid;
+    border: 2px #eba535 dotted;
     border-radius: 20px;
     margin: 10px auto;
     display: block;
+}
+
+.steps li{
+    margin: 10px 0px;
+}
+
+.ingredients li{
+    margin: 5px 0px;
+}
+
+figcaption {
+    text-align: center;
 }
 
 h1 {
@@ -42,6 +58,7 @@ h1 {
     padding: 30px;
     text-align: center;
     margin: 50px auto;
+    color: white;
 }
 
 div.description,
@@ -53,6 +70,11 @@ div.editors-note {
     margin:15px;
 }
 
+.ingredients li{
+    list-style-type: circle;
+}
+
 h1.homepage {
     width: 400px;
+    color: white;
 }
