@@ -44,8 +44,10 @@ h1 {
     margin: 50px auto;
 }
 
-div.Description,
-div.Ingredients-and-steps {
+div.description,
+div.ingredients,
+div.steps,
+div.editors-note {
     border: 2px #eba535 dotted;
     padding: 20px;
     margin:15px;
